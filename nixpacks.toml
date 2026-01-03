@@ -2,7 +2,7 @@
 # MeetFit - Flask + React application
 
 [phases.setup]
-nixPkgs = ['python310', 'nodejs-18_x', 'postgresql']
+nixPkgs = ['python310', 'nodejs-20_x', 'postgresql']
 
 [phases.install]
 cmds = [
